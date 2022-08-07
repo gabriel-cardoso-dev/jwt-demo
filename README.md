@@ -1,5 +1,5 @@
 # jwtdemo
- This is a project that implements JWT authentication
+ This is a simple demonstration of JWT authentication using Java Spring.
  
 Quick run:
 docker pull gabrielcardosodev/jwtdemo:1.0
